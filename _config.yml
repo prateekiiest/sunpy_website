@@ -24,4 +24,4 @@ install_instructions: http://docs.sunpy.org/en/stable/guide/installation/
 gems: [jekyll-paginate]
 
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-time-machine
